@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice" },
+    { "id": 2, "name": "Bob" }
+  ],
+  "logs": [
+    { "id": 1, "endpoint": "/api/home", "status": 200, "timestamp": "2024-03-30T10:00:00Z" },
+    { "id": 2, "endpoint": "/api/login", "status": 500, "timestamp": "2024-03-30T10:05:00Z" }
+  ]
+}
+
